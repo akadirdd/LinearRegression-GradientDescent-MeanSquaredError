@@ -2,8 +2,9 @@
 
 firstly add libraries
 -----------------------------
-open Terminal tab in pycharm IDE
+open Terminal tab in pycharm IDE,
 download these libraries
 
 -> python -m pip install -U matplotlib
 -> pip install -U scikit-learn
+-> pip install -U pandas
